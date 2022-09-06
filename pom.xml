@@ -88,6 +88,7 @@
 
     <build>
         <defaultGoal>compile</defaultGoal>
+        <finalName>jenkinsDemo</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
